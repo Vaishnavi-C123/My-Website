@@ -16,6 +16,6 @@ This is a responsive personal portfolio website developed using HTML, CSS, and J
 🛠️ Technologies Used
 - HTML5  
 - CSS3  
-- JavaScript  
+- JavaScript
 
 
