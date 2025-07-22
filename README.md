@@ -3,7 +3,7 @@ A personal portfolio website built using HTML, CSS, and JavaScript to showcase m
 
 This is a responsive personal portfolio website developed using HTML, CSS, and JavaScript. It includes details about me, my skills, recent projects, and contact information.
 
-[Visit My Website](file:///C:/Users/aravind/OneDrive/Desktop/portfolio-my%20website/index.html#about)
+[Visit My Website](file:///C:/Users/aravind/OneDrive/Desktop/portfolio-my%20website/index.html)
 
 📁 Sections Included
 - Home – Introduction with name and greeting.
